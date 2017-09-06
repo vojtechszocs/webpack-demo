@@ -1,0 +1,12 @@
+= webpack-demo
+
+____
+https://webpack.js.org/[webpack] demo project
+____
+
+== Running
+
+* `yarn install` to install project's dependencies
+* `yarn run build` for production build
+* `yarn run build:dev` for development build
+* `yarn run start:dev` to start development server
